@@ -1,0 +1,44 @@
+{
+    "hero": {
+        "header": "Drink Healthy  <br>  and Natural Coffee",
+        "subtext": "At Joe's House of Coffee, we only brew the freshest coffee from all around the world. We also serve pastries such as cupcakes and brownies.",
+        "img": "/images/bg_3.jpg"
+    },
+    "about": {
+        "header": "Welcome to Joe's Coffee House.",
+        "subtext": "Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world. Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world. Welcome to our house of coffee! We hope you enjoy our broad selection of premium coffee from all over the world.",
+        "img": "/images/about.jpg",
+        "images": [
+            {
+                "img": "/images/lunch-4.jpg",
+                "caption": "Coffee"
+            },
+            {
+                "img": "/images/lunch-7.jpg",
+                "caption": "Tea"
+            },
+            {
+                "img": "/images/lunch-6.jpg",
+                "caption": "Pastries"
+            }
+        ]
+    },
+    "team": {
+        "subHeader": "Team",
+        "header": "Meet Team",
+        "people": [
+            {
+                "name": "Kanan Boyukkishi",
+                "image": "images/person_1.jpg",
+                "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                "position": "owener"
+            },
+            {
+                "name": "Kamran Boyukkishi",
+                "image": "images/person_2.jpg",
+                "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+                "position": "owener"
+            }
+        ]
+    }
+}
